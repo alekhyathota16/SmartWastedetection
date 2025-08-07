@@ -1,0 +1,2 @@
+# SmartWastedetection
+SmartWasteDetection project
